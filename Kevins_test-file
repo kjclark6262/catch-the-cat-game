@@ -1,4 +1,6 @@
 # This is a new test file to test the merge capabilities
 #
 #
-# this is another line in the test-file
+# this is a modification of a line in the test-file 
+
+This is an additional line to the test-file
